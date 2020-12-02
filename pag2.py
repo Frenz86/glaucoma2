@@ -1,5 +1,5 @@
 import streamlit as st
-import plotly.figure_factory as ff
+#import plotly.figure_factory as ff
 from PIL import Image
 import pandas as pd
 import numpy as np
